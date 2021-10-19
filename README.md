@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusmotta12" alt="matheusmotta12" /></a> </p>
 
-- 🔭 I’m currently working on **FreeCodeCamp's Responsive Web Design Certification**
+- 🔭 I’m currently working on **FreeCodeCamp's JavaScript Algorithms and Data Structures Certification**
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
